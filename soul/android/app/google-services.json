@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730746025909",
+    "project_id": "soul-3e280",
+    "storage_bucket": "soul-3e280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730746025909:android:56ea5dd8142d82ae6c0bfc",
+        "android_client_info": {
+          "package_name": "com.example.soul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730746025909-mttjqqflg1j6seto6g9memo08uk0iqj2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKwPRYHQVUIZ5eMpV2gOYQGHT6O2WRB8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730746025909-mttjqqflg1j6seto6g9memo08uk0iqj2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
